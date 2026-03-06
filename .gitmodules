@@ -4,3 +4,9 @@
 [submodule "api/account-service"]
 	path = api/account-service
 	url = https://github.com/Insper-G-Nicacio/account-pms-service.git
+[submodule "api/api/site"]
+	path = api/api/site
+	url = https://github.com/Insper-G-Nicacio/projeto-microsservicos-site.git
+[submodule "api/site"]
+	path = api/site
+	url = https://github.com/Insper-G-Nicacio/projeto-microsservicos-site.git
